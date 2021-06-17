@@ -8,8 +8,10 @@ recibe como **entrada** el valor de la base del triangulo en cm y la altura del 
 # Problema 2
 En el problema dos, se desarrolla un algoritmo para calcular la nota final de un curso con la sgte distribucion de notas:
 
-1.Dos parciales (25% cada uno) 
-2.taller (20%)  
+1.Dos parciales (25% cada uno)
+
+2.taller (20%)
+
 3.proyecto (30%)
 
 este algoritmo recibe como **entrada** La nota del primer parcial, la nota del segundo parcial, la nota del taller, y la nota del proyecto, y tiene como **salida** la nota final que  se calcula multiplicando la cada una de las notas por el valor de su porcentaje y  al final se suman .La implementacion en *python*  puede verse en el archivo : “nota final.py”.
