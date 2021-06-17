@@ -23,3 +23,4 @@ En el problema tres, se desarrolla un algoritmo para convertir grados *Celsius* 
 
 La implementacion en *python* puede verse en el archivo: “grados celsius.py”
 
+**Cada programa es de uso libre.**
